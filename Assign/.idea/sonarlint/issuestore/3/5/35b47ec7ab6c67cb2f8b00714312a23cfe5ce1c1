@@ -1,0 +1,9 @@
+
+¨
+java:S1130;"ŠRemove the declaration of thrown exception 'com.squadstack.parking.exceptions.SlotAlreadyAvailableException' which is a runtime exception.(›ÃÙ’8¼”ãöñ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ôôÿûÿÿÿÿ8¼”ãöñ.
+V
+java:S4973u"9Use the "equals" method if value comparison was intended.(Òıï8¼”ãöñ.
+P
+java:S1068"3Remove this unused "lotRunningState" private field.(©ğ¿¹8¼”ãöñ.

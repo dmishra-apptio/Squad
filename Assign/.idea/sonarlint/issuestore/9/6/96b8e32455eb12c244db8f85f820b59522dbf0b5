@@ -1,0 +1,21 @@
+
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¸«§Éÿÿÿÿÿ8şæöñ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(—«‘»øÿÿÿÿ8şæöñ.
+P
+java:S1068".Remove this unused "parkingLot" private field.(—«‘»øÿÿÿÿ8şæöñ.
+S
+java:S2387"1"parkingLot" is the name of a field in "Command".(—«‘»øÿÿÿÿ8şæöñ.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8şæöñ.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18şæöñ.
+L
+java:S3740"/Provide the parametrized type for this generic.(æ‡òü8şæöñ.
+¨
+java:S1130"ŠRemove the declaration of thrown exception 'com.squadstack.parking.exceptions.SlotAlreadyAvailableException' which is a runtime exception.(‹‘Øş8şæöñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í‹ê™øÿÿÿÿ8şæöñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ËÍÓùÿÿÿÿ8şæöñ.
+g
+java:S2259"KA "NullPointerException" could be thrown; "queuedRequest" is nullable here.(²ú×a8şæöñ.

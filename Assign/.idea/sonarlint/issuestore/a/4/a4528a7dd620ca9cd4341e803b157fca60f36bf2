@@ -1,0 +1,12 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8ÂûŞöñ.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(šÒ»½8ÂûŞöñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×”îØùÿÿÿÿ8Â±Õøñ.
+L
+java:S3740*"/Provide the parametrized type for this generic.(Ó§ƒ¦8ÂûŞöñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†ÑÑ8ğÕøñ.
+R
+java:S1481'"0Remove this unused "propsLoader" local variable.(‘÷„¾úÿÿÿÿ8õ»şöñ.
+a
+java:S1854'"?Remove this useless assignment to local variable "propsLoader".(‘÷„¾úÿÿÿÿ8õ»şöñ.
