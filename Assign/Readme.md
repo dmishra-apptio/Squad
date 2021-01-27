@@ -9,6 +9,7 @@
  -  
 # CLone Project From Git
  - git clone git@github.com:dk103/Squad.git
+ - Change directory to Assign using "cd" command
 
 # Install Dependencies & Build Project
 
